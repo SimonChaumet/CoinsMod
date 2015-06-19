@@ -1,0 +1,10 @@
+# Items
+item.coinsmod_coin_iron.name=Pièce de fer
+item.coinsmod_coin_gold.name=Pièce d'or
+item.coinsmod_coin_emerald.name=Pièce d'émeraude
+item.coinsmod_coin_diamond.name=Pièce de diamant
+item.coinsmod_purse.name=Bourse
+item.coinsmod_purse_small.name=Petite bourse
+
+# Containers
+coinsmod.container.purse=Inventaire bourse

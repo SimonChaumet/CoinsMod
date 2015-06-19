@@ -1,0 +1,10 @@
+# Items
+item.coinsmod_coin_iron.name=Iron coin
+item.coinsmod_coin_gold.name=Gold coin
+item.coinsmod_coin_emerald.name=Emerald coin
+item.coinsmod_coin_diamond.name=Diamond coin
+item.coinsmod_purse.name=Purse
+item.coinsmod_purse_small.name=Small purse
+
+# Containers
+coinsmod.container.purse=Inventory purse

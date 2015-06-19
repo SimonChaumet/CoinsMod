@@ -1,0 +1,16 @@
+[
+{
+  "modid": "coinsmod",
+  "name": "Coins Mod",
+  "description": "This mod adds coins.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://scarex.fr",
+  "updateUrl": "",
+  "authorList": ["SCAREX"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
